@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harsh\\roll_ball\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B5763F-D891-2585-97E2-9C1503969C4D}|Assembly-CSharp.csproj|c:\\users\\harsh\\roll_ball\\assets\\scenes\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B5763F-D891-2585-97E2-9C1503969C4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B5763F-D891-2585-97E2-9C1503969C4D}|Assembly-CSharp.csproj|C:\\Users\\harsh\\roll_ball\\assets\\scenes\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B5763F-D891-2585-97E2-9C1503969C4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B5763F-D891-2585-97E2-9C1503969C4D}|Assembly-CSharp.csproj|C:\\Users\\harsh\\roll_ball\\assets\\scenes\\scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B5763F-D891-2585-97E2-9C1503969C4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\roll_ball\\Assets\\Scenes\\Scripts\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\EnemyMovement.cs",
+              "ToolTip": "C:\\Users\\harsh\\roll_ball\\Assets\\Scenes\\Scripts\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\EnemyMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:13:12.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\roll_ball\\Assets\\Scenes\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\harsh\\roll_ball\\Assets\\Scenes\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAkwCMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:38:54.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rotator.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\roll_ball\\Assets\\Scenes\\Scripts\\Rotator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Rotator.cs",
+              "ToolTip": "C:\\Users\\harsh\\roll_ball\\Assets\\Scenes\\Scripts\\Rotator.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Rotator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:57:26.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
